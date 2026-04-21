@@ -1,0 +1,7 @@
+# Use of requirements.txt → Contains all Python dependencies required to run the project.
+
+fastapi
+uvicorn
+pymongo
+pydantic
+scikit-learn
