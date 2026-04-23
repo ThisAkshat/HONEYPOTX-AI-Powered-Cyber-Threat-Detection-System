@@ -1,4 +1,4 @@
-# predictor.py — Hybrid: Rule-based + Gemini for edge cases
+# predictor.py — Hybrid: Rule-based + Gemini for edge cases. 
 
 import re
 import google.generativeai as genai
