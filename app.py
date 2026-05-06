@@ -5,6 +5,7 @@ from database.db import init_db
 
 app = FastAPI(title="HoneypotX")
 
+
 init_db()
 app.include_router(honeypot_router)
 
