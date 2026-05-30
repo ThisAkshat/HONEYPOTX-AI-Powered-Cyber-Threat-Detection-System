@@ -1,4 +1,4 @@
-# Use of db.py → Handles connection with MongoDB and manages database operations (insert, fetch, update logs).
+ # Use of db.py → Handles connection with MongoDB and manages database operations (insert, fetch, update logs).
 
 from pymongo import MongoClient
 import config
